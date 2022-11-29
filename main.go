@@ -14,4 +14,6 @@ func main() {
 	fmt.Println(fmt.Sprintf("calculate sum = %d", calculation.Sum(1, 1, 1)))
 
 	fmt.Println(testing.PrintOut())
+
+	fmt.Println(testing.PrintOutTest())
 }
