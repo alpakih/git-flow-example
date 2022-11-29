@@ -5,7 +5,6 @@ import (
 
 	"github.com/alpakih/git-flow-example/calculation"
 	"github.com/alpakih/git-flow-example/testing"
-	"github.com/alpakih/git-flow-example/testing2"
 )
 
 func main() {
@@ -17,6 +16,4 @@ func main() {
 	fmt.Println(testing.PrintOut())
 
 	fmt.Println(testing.PrintOutTest())
-
-	fmt.Println(testing2.PrintOutNew())
 }
