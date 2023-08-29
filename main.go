@@ -25,4 +25,7 @@ func main() {
 	fmt.Println("TEST 2")
 
 	fmt.Println("TEST 3")
+
+	fmt.Println("TEST 3")
+
 }
