@@ -19,4 +19,10 @@ func main() {
 	fmt.Println(testing.PrintOutTest())
 
 	fmt.Println(testing2.PrintOutNew())
+
+	fmt.Println("TEST 1")
+
+	fmt.Println("TEST 2")
+
+	fmt.Println("TEST 3")
 }
