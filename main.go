@@ -28,4 +28,6 @@ func main() {
 
 	fmt.Println("TEST 3")
 
+	fmt.Println("TEST 4")
+
 }
